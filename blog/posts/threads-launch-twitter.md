@@ -4,7 +4,7 @@ date:
 categories:
     - Opinion
 authors:
-    - freddy-m
+    - freddy
 links:
     - posts/move-fast-and-break-things.md
     - posts/virtual-insanity.md
@@ -12,6 +12,8 @@ tags:
     - Twitter
     - Facebook
 license: BY-SA
+description: The man behind Facebook has somehow managed to make the Twitter experience worse.
+schema_type: OpinionNewsArticle
 ---
 # Threads Is the Perfect Twitter Alternative, Just Not for You
 

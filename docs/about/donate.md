@@ -1,5 +1,6 @@
 ---
 title: Donate
+description: The charitable mission of Privacy Guides relies on contributions from visitors like yourself. Anything you can do to support the project is hugely appreciated.
 ---
 <!-- markdownlint-disable MD036 -->
 Donate to Privacy Guides and support our mission to defend digital rights and spread the word about mass surveillance programs and other daily privacy invasions. You can help Privacy Guides researchers, activists, and maintainers create informative content, host private digital services, and protect privacy rights at a time when the world needs it most.
@@ -21,6 +22,10 @@ Privacy Guides is a **non-profit** organization. We use donations for a variety 
 **Web Hosting**
 
 :   Traffic to this website uses hundreds of gigabytes of data per month, we use a variety of service providers to keep up with this traffic.
+
+**Payroll**
+
+:   We currently have one paid part-time [position](../about.md#staff) which handles day-to-day tasks like system administration, writing regular product reviews, posting our weekly show, creating course content, etc. In the future, we would like to be able to hire full-time journalists and writers to review products and create more educational content.
 
 **Domain Registrations**
 

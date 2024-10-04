@@ -358,7 +358,6 @@ markdown_extensions:
   tables: {}
   footnotes: {}
   toc:
-    permalink: true
     toc_depth: 4
 
 nav:
@@ -400,6 +399,7 @@ nav:
           - "browser-extensions.md"
       - !ENV [NAV_PROVIDERS, "Providers"]:
           - "cloud.md"
+          - "data-broker-removals.md"
           - "dns.md"
           - "email-aliasing.md"
           - "email.md"
@@ -444,13 +444,14 @@ nav:
       - "about/donate.md"
       - "about/contributors.md"
       - "about/criteria.md"
+      - "about/executive-policy.md"
       - "about/notices.md"
       - "about/privacy-policy.md"
+      - "about/jobs.md"
       - !ENV [NAV_COMMUNITY, "Community"]:
           - !ENV [NAV_ONLINE_SERVICES, "Online Services"]: "about/services.md"
           - !ENV [NAV_CODE_OF_CONDUCT, "Code of Conduct"]: "CODE_OF_CONDUCT.md"
           - "about/statistics.md"
-          - "about/privacytools.md"
       - !ENV [NAV_CONTRIBUTING, "Contributing"]:
           - !ENV [NAV_WRITING_GUIDE, "Writing Guide"]:
               - "meta/writing-style.md"
@@ -469,3 +470,5 @@ nav:
 validation:
   nav:
     not_found: info
+    omitted_files: ignore
+    absolute_links: ignore

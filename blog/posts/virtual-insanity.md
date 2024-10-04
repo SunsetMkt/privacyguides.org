@@ -4,13 +4,15 @@ date:
 categories:
     - Opinion
 authors:
-    - freddy-m
+    - freddy
 links:
     - posts/move-fast-and-break-things.md
     - posts/why-i-run-a-tor-relay.md
 tags:
     - Facebook
 license: BY-SA
+description: On Mark Zuckerberg, Facebook, and the Metaverse.
+schema_type: OpinionNewsArticle
 ---
 # Virtual Insanity
 

@@ -1,7 +1,7 @@
 ---
 title: "Mobile Phones"
 icon: material/cellphone-check
-description: These mobile devices have proper Android Verified Boot support for custom operating systems.
+description: These mobile devices provide the best hardware security support for custom Android operating systems.
 cover: android.webp
 schema:
   -
@@ -23,6 +23,7 @@ schema:
       author:
         "@type": Organization
         name: Privacy Guides
+robots: nofollow, max-snippet:-1, max-image-preview:large
 ---
 <small>Protects against the following threat(s):</small>
 

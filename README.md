@@ -42,9 +42,9 @@
 
 **Privacy Guides** is a socially motivated website that provides information for protecting your data security and privacy. Our mission is to inform the public about the value of digital privacy, and global government initiatives which aim to monitor your online activity. We are a non-profit collective operated entirely by volunteer team members and contributors. Our website is free of advertisements and not affiliated with any of the listed providers.
 
-The current list of team members can be found [here](https://www.privacyguides.org/about/#our-team). Additionally, [many people](#contributors) have made contributions to the project, and you can too!
+The current list of team members can be found [here](https://www.privacyguides.org/en/about/#executive-committee). Additionally, [many people](#contributors) have made contributions to the project, and you can too!
 
-*Featured on: [Tweakers](https://tweakers.net/reviews/10568/op-zoek-naar-privacyvriendelijke-tools-niek-de-wilde-van-privacy-guides.html), [The New York Times](https://nytimes.com/wirecutter/guides/online-security-social-media-privacy), and [Wired](https://wired.com/story/firefox-mozilla-2022)*
+*Featured on: [Tweakers](https://tweakers.net/reviews/10568/op-zoek-naar-privacyvriendelijke-tools-niek-de-wilde-van-privacy-guides.html), [The New York Times](https://nytimes.com/wirecutter/guides/online-security-social-media-privacy), [Wired](https://wired.com/story/firefox-mozilla-2022), and [Fast Company](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again).*
 
 ## Contributing
 
@@ -246,7 +246,7 @@ Privacy Guides wouldn't be possible without these wonderful people ([emoji key](
     <tr>
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/Kcchouette"><img src="https://avatars.githubusercontent.com/u/3000936?v=4" width="100px;" loading=lazy /><br /><sub><b>Kcchouette</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=Kcchouette" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://jacobneplokh.com/"><img src="https://avatars.githubusercontent.com/u/46184597?v=4" width="100px;" loading=lazy /><br /><sub><b>Jacob Neplokh</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=jneplokh" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/razac-elda"><img src="https://avatars.githubusercontent.com/u/30749146?v=4" width="100px;" loading=lazy /><br /><sub><b>Leonardo Mazzon</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=razac-elda" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/razac-elda"><img src="https://avatars.githubusercontent.com/u/30749146?v=4" width="100px;" loading=lazy /><br /><sub><b>Leonardo Mazzon</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=razac-elda" title="Documentation">📖</a> <a href="https://github.com/privacyguides/privacyguides.org/issues?q=author%3Arazac-elda" title="Bug reports">🐛</a> <a href="#financial-razac-elda" title="Financial">💵</a> <a href="#promotion-razac-elda" title="Promotion">📣</a> <a href="#question-razac-elda" title="Answering Questions">💬</a> <a href="#translation-razac-elda" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/opheron"><img src="https://avatars.githubusercontent.com/u/7110152?v=4" width="100px;" loading=lazy /><br /><sub><b>Andrew Chong</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=opheron" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/woctezuma"><img src="https://avatars.githubusercontent.com/u/570669?v=4" width="100px;" loading=lazy /><br /><sub><b>Wok</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=woctezuma" title="Documentation">📖</a></td>
     </tr>
@@ -592,6 +592,9 @@ Privacy Guides wouldn't be possible without these wonderful people ([emoji key](
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/overwatcheddude"><img src="https://avatars.githubusercontent.com/u/37483931?v=4" width="100px;" loading=lazy /><br /><sub><b>Overwatch</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=overwatcheddude" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/m00t316"><img src="https://avatars.githubusercontent.com/u/54213179?v=4" width="100px;" loading=lazy /><br /><sub><b>Kieran Colfer</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=m00t316" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/I-I-IT"><img src="https://avatars.githubusercontent.com/u/78900789?v=4" width="100px;" loading=lazy /><br /><sub><b>Triple T</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=I-I-IT" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="20%"><a rel="nofollow noopener noreferrer" href="https://github.com/IDON-TEXIST"><img src="https://avatars.githubusercontent.com/u/73442356?v=4" width="100px;" loading=lazy /><br /><sub><b>IDON-TEXIST</b></sub></a><br /><a href="https://github.com/privacyguides/privacyguides.org/commits?author=IDON-TEXIST" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>

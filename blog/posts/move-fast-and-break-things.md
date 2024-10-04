@@ -4,12 +4,14 @@ date:
 categories:
     - Opinion
 authors:
-    - freddy-m
+    - freddy
 links:
     - posts/virtual-insanity.md
 tags:
     - Facebook
 license: BY-SA
+description: If someone has to tell you that they care about your privacy, they probably don’t.
+schema_type: OpinionNewsArticle
 ---
 # Move Fast and Break Things
 
